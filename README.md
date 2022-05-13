@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an amateur coder willing to learn as much as needed to work through an idea or concept - something like rabbit holes.
+- Speech synthesis
+- Stereograms
+- Graph extracting
+- Flywheels
+- Factorization
+
 <!--
 **azmoc/azmoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
