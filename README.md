@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👨‍🚀 🍩
 
 I'm an amateur coder willing to learn as much as needed to work through an idea or concept - something like rabbit holes.
 - Speech synthesis
