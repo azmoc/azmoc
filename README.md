@@ -1,11 +1,11 @@
 ### Hi there 👋 👨‍🚀 🍩
 
-I'm an amateur coder willing to learn as much as needed to work through an idea or concept - something like rabbit holes.
-- Speech synthesis
+I'm an amateur coder willing to learn as much as needed to work through an idea or concept - I often go down rabbit holes.
+- Sound Fourier transforms
 - Stereograms
-- Graph extracting
-- Flywheels
-- Factorization
+- Graph data extraction
+- Flywheel energy storage
+- Prime factorization
 
 <!--
 **azmoc/azmoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
