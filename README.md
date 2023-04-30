@@ -2,7 +2,7 @@
 
 I'm an amateur coder willing to learn as much as needed to work through an idea or concept - I often go down rabbit holes.
 - Sound Fourier transforms
-- Stereograms
+- Autostereogram illusions
 - Graph data extraction
 - Flywheel energy storage
 - Prime factorization
